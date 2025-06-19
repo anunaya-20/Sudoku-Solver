@@ -4,6 +4,7 @@ A C++ program that solves a 9x9 Sudoku puzzle using the backtracking algorithm. 
 This Sudoku solver is implemented using Backtracking Algorithm, a classic technique for solving constraint satisfaction problems.
 
 ### How It Work
+
 1.The program searches for an unassigned cell (i.e., a cell with a value of 0).
 2.For that cell, it tries all numbers from 1 to 9.
 3.It checks if placing that number is valid:
@@ -14,10 +15,12 @@ This Sudoku solver is implemented using Backtracking Algorithm, a classic techni
 
 ## How to Run
 ### Prerequisites
-A C++ compiler like g++.
-A basic terminal or IDE like Visual Studio Code, Code::Blocks, or Dev C++.
+
+-A C++ compiler like g++.
+-A basic terminal or IDE like Visual Studio Code, Code::Blocks, or Dev C++.
 
 ### Steps to Compile and Run
+
 1. *Clone the Repository*:
    ```bash
    git clone https://github.com/your-username/sudoku-solver.git
