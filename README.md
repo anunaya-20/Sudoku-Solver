@@ -3,7 +3,7 @@ A C++ program that solves a 9x9 Sudoku puzzle using the backtracking algorithm. 
 ## Algorithm Used
 This Sudoku solver is implemented using Backtracking Algorithm, a classic technique for solving constraint satisfaction problems.
 
-### How It Works:
+### How It Work
 1.The program searches for an unassigned cell (i.e., a cell with a value of 0).
 2.For that cell, it tries all numbers from 1 to 9.
 3.It checks if placing that number is valid:
